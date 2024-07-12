@@ -1,6 +1,6 @@
 # Image Classification using Convolutional Neural Network (CNN)
 
-![CNN](https://cdn.iconscout.com/icon/free/png-256/deep-learning-1994253-1672927.png)
+<a align='center' href="https://imgbb.com/"><img src="https://i.ibb.co/BGyWSYp/images.jpg" alt="images" border="0"></a>
 
 This repository contains a Jupyter Notebook focused on image classification using Convolutional Neural Networks (CNN). The project utilizes the Kaggle Cat vs Dog dataset to train a CNN model to distinguish between images of cats and dogs.
 
